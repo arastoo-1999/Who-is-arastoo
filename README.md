@@ -38,6 +38,11 @@
     from Iran.
   </div>
   </br>
-  <span>- ⬆️ Leveling Up</span>
-  <span> - :
+  <span> 🔭 I'm working on botostart website and passing courses on this learning package.</span>
+  <br></br>
+  <span>:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.</span>
+  <br></br>
+  <span> ⏫ Leveling Up. </span>
+  </br>
+  
   
