@@ -12,3 +12,7 @@
   </a>
   </div>
 </div>
+<div display="flex'>
+              <span>I am a Front-End Developer</span>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
+</div>
