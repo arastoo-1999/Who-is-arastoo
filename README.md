@@ -43,5 +43,11 @@
   <p>:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.</p>
   </br>
   <span> ⏫ Leveling Up. </span>
+  <br></br>
+  <span> 🔗 reach me: </span> 
   </br>
-  <span>reach me: </span> 
+  </br>
+  <span> 🆔 Telegram: @Who_is_arastoo  <span>
+  </br>
+  <span> 📧 Email: <a>arastoo.af1999@gmail.com</a>
+    
