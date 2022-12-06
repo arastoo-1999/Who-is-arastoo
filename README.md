@@ -39,9 +39,9 @@
   </div>
   </br>
   <p> 🔭 I'm working as Junior front-end developer.</p>
-  <br></br>
+  </br>
   <p>:zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.</p>
-  <br></br>
+  </br>
   <span> ⏫ Leveling Up. </span>
   </br>
   <span>reach me: </span> 
