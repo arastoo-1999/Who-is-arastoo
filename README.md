@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/arastoo-afra-a8623924b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="">
+    <a href="https://instagram.com/arastoo_af">
     <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor="white" alt="Instagram Badge"/>
   </a>
-  <a href="">
+  <a href="https://t.me/Who_is_arastoo">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor="blue" alt="Telegram Badge"/>
   </a>
   </div>
