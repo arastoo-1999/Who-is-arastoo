@@ -18,14 +18,7 @@
      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
      </h1>
  </div>
-:man_technologist: About Me :
-
-  <div display="flex">
-    <span>I am a Front-End Developer</span>
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-    from Iran.
-  </div>
-<div align="center">
+ <div align="center">
   <p>:hammer_and_wrench: Languages and Tools :</p>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -37,3 +30,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 </div>
+:man_technologist: About Me :
+
+  <div display="flex">
+    <span>I am a Front-End Developer</span>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    from Iran.
+  </div>
+<div align="center">
