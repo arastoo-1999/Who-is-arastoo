@@ -4,10 +4,10 @@
   <a href="https://www.linkedin.com/in/arastoo-afra-a8623924b">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="your-twitter-URL">
+    <a href="">
     <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram&logoColor="white" alt="Instagram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor="blue" alt="Telegram Badge"/>
   </a>
   </div>
@@ -49,5 +49,7 @@
   </br>
   <span> 🆔 Telegram: @Who_is_arastoo  <span>
   </br>
-  <span> 📧 Email: <a>arastoo.af1999@gmail.com</a>
+  <span> 📧 Email: 
+    <a href="https://arastoo.af1999@gmail.com">arastoo.af1999@gmail.com</a>
+  </span>
     
